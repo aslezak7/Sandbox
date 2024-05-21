@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "812e58e9-ec8e-4550-b1db-e4eea4011955"
+      }
+    },
+    "owner": "westmorelandsoftware"
   }
 }
